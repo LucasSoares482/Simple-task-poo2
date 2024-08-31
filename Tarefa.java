@@ -67,3 +67,6 @@ public class Tarefa {
         tarefa.exibirDetalhes();
     }
 }
+
+//lucas soares dos santos 04117259
+//Daniel Renan Braga de Moura 04172219
